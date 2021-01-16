@@ -1,0 +1,1 @@
+This application allows user to precess a .ppm image with filters such as 'negative', 'filter linear' and 'gamma;.
